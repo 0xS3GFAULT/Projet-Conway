@@ -6,7 +6,7 @@ J'ai eu l'opportunité de réaliser un projet en langage C avec mes camarades du
 
 ![conway_2](images/conway_2.png)
 
-![conway_3](images/conway_3.png)
+![conway_3](images/conway_3.PNG)
 
 Ce programme consiste à utiliser le jeu de la vie et à modifier ses règles afin d'en faire un outil scientifique, sur Linux.
 
